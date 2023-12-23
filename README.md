@@ -10,12 +10,12 @@ Below is an image of the program.
 
 Notes:
 Uses eval() which is not ideal, however implements the "evaluation" aspect nicely.  
-> To address potential user error / self-inflicted issues, I prevent direct input to the areas by setting them as read only.
-> This means that the user has to use pre-programmed buttons (0-9, +/-/=) to access the fields / set input / get output.
+> To address potential user error / self-inflicted issues, I prevent direct input to the areas by setting them as read only.  
+> This means that the user has to use pre-programmed buttons (0-9, +/-/=) to access the fields / set input / get output.  
 
 Pipeline:
-> Add (haha) multiplication and division
-> Exponentiation
-> Log
-> Direct Keyboard Input
-> Customization Features
+> Add (haha) multiplication and division  
+> Exponentiation  
+> Log  
+> Direct Keyboard Input  
+> Customization Features  
