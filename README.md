@@ -9,6 +9,6 @@ Below is an image of the program.
 ![alt text](https://github.com/LiTony/calculator/blob/main/calculator_example.png?raw=true)
 
 Notes:
-Uses eval() which is not ideal, however implements the "evaluation" aspect nicely.
-  To address potential user error / self-inflicted issues, I prevent direct input to the areas by setting them as read only.
+Uses eval() which is not ideal, however implements the "evaluation" aspect nicely.  
+  To address potential user error / self-inflicted issues, I prevent direct input to the areas by setting them as read only.  
   This means that the user has to use pre-programmed buttons (0-9, +/-/=) to access the fields / set input / get output.
